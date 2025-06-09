@@ -4,7 +4,7 @@ I'm a **Senior Frontend Engineer** based in **Milan** with over **8+ years** of 
 
 ### 💼 What I Do
 
-- 🚀 Build blazing-fast web & mobile apps using **JavaScript**, **TypeScriptt**, **React**, **React-Native**, **Nodejs**, **Nextjs**, **React Native**, **Vue**, and **Angular**
+- 🚀 Build blazing-fast web & mobile apps using **JavaScript**, **TypeScript**, **React**, **React-Native**, **Nodejs**, **Nextjs**, **React-Native**, **Vue**, and **Angular**
 - 🤖 Develop smart automation bots using **AI**
 - 🛠️ Architect scalable frontend systems with **JavaScript**, **TypeScript**.
 - 📦 Integrate **CI/CD**, **Docker**, and **Kubernetes** for DevOps workflows
@@ -24,13 +24,9 @@ Over the past **8+ years**, I’ve specialized in:
 ### 🧰 Tech Toolbox
 
 💻 Programming Languages: JavaScript, TypeScript
-
-🔧 Technologies & Tools: React, Nodejs, Nextjs, React Native, Expo.
-
+🔧 Technologies & Tools: React, Nodejs, Nextjs, React-Native, Expo.
 ☁️ Cloud & DevOps: Vercel, GCP, Docker, GitLab/GitHub Actions.
-
 📊 Methodologies: SCRUM, Agile, TDD
-
 🌐 Interests: AI, Micro Frontends, Design Systems, Build Optimization, React Performance, State Management (Redux, Context API).
 
 ### 🧠 Fun Fact
