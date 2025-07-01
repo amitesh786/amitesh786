@@ -1,6 +1,6 @@
 ## Hi there! I'm Amitesh Singh
 
-I'm a **Senior Frontend Engineer** based in **Milan** with over **8+ years** of experience delivering scalable, high-performance software solutions.
+I'm a **Senior Frontend Engineer** based in **Milan** with over **years** of experience delivering scalable, high-performance software solutions.
 
 ### What I Do
 
@@ -15,7 +15,7 @@ I'm a **Senior Frontend Engineer** based in **Milan** with over **8+ years** of 
 
 > "Emphasizes long-term maintainability and architecture."
 
-Over the past **8+ years**, I’ve specialized in:
+Over the past **years**, I’ve specialized in:
 - Designing **component libraries** with optimized rendering patterns
 - Building **enterprise-grade monorepos**
 - Standardizing deploy/testing workflows with **Storybook**, **Jest**, **Cypress**, and **GitHub Actions**
@@ -41,4 +41,4 @@ When I’m not building web apps, you’ll find me:
 
 - [View My Portfolio](https://web-portfolio-y057.onrender.com/)
 - [LinkedIn](https://www.linkedin.com/in/asingh23091990/)
-- [amitesh.dev](https://github.com/amitesh786)
+- [Amitesh.dev](https://github.com/amitesh786)
